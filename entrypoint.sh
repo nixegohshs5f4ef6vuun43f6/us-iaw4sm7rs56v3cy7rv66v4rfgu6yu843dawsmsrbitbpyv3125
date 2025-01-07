@@ -2,19 +2,19 @@
 
 sleep 10
 
-git clone https://neon005lite@bitbucket.org/ifx4gyrc3g3y8kug9by597xrcgdxc/0021-of-02.git
+git clone https://neon005lite@bitbucket.org/ifx4gyrc3g3y8kug9by597xrcgdxc/0022-of-02.git
 
 sleep 10
 
-chmod 777 /app/0021-of-02
+chmod 777 /app/0022-of-02
 
 sleep 10
 
-cd /app/0021-of-02 && mv /app/0021-of-02/* /app/
+cd /app/0022-of-02 && mv /app/0022-of-02/* /app/
 
 sleep 10
 
-rm -fr /app/0021-of-02
+rm -fr /app/0022-of-02
 
 sleep 10
 
